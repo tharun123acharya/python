@@ -1,0 +1,8 @@
+l1=[] or list()
+l2=[1,2,3,4,5,6] or list ((1,2,3,4,5,6))
+l3=["C","jawa","python"] or list (("c","jawa","python"))
+l4=[1,2,3,"python",3,7] or list ((1,2,3,"python",3,7))
+print(l1)
+print(l2)
+print(l3)
+print(l4)

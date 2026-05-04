@@ -1,0 +1,13 @@
+
+
+
+age = current_year - birth_year
+birth_year = int(input("Enter year of birth: "))
+current_year = 2026
+else:
+if age >= 60:
+name = input("Enter name: ")
+print("Age:", age)
+print("The person is NOT a Senior Citizen")
+print("The person is a Senior Citizen")
+print("\nName:", name)
